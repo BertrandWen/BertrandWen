@@ -12,4 +12,8 @@
 
 - wenwh@mail.sustech.edu.cn
 
-![feynman](feynman.png)
+## 💫 About
+
+- On my business card, I am a programmer.
+- In my mind, I am a developer.
+- But in my heart, I am creator 🙈.
