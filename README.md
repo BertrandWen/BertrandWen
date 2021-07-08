@@ -1,4 +1,4 @@
-# Hi, I'm HughWen 👋
+# Hi, I'm Hugh 👋
 
 ## 🔭 Skill
 
