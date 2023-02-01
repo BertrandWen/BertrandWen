@@ -4,7 +4,7 @@
 
 - Machine Learning, Natural Language Processing, Kubernetes, Docker, Go, Python, Javascript, Linux ...
 
-## 💬 Blog
+## 💬 Homepage
 
 - [hughwen.github.io](https://hughwen.github.io/#/)
 
