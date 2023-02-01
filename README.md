@@ -2,7 +2,7 @@
 
 ## 💬 Homepage
 
-- [hughwen.github.io](https://hughwen.github.io/#/)
+- [hughwen.github.io](https://hughwen.github.io/)
 
 ## 📫 Email
 
