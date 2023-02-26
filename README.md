@@ -1,8 +1,8 @@
-# Hi, I'm Hugh 👋
+# Hi, I'm Weihuang 👋
 
 ## 💬 Homepage
 
-- [hughwen.github.io](https://hughwen.github.io/)
+- [bertrandwen.github.io](https://bertrandwen.github.io/)
 
 ## 📫 Email
 
@@ -12,4 +12,4 @@
 
 A programmer for the fun of it.
 
-![](https://github-readme-stats.vercel.app/api?username=HughWen&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=BertrabdWen&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
